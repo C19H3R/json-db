@@ -1,0 +1,47 @@
+{
+  "1": {
+    "attributes": [
+      {
+        "trait_type": "Shape",
+        "value": "Circle"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Sad"
+      }
+    ],
+    "description": "A sad circle.",
+    "animation_url": "https://design-5k.github.io/crt-skulls-viewer/?bgId=5&tokenId=6",
+    "name": "Sad Circle"
+  },
+  "2": {
+    "attributes": [
+      {
+        "trait_type": "Shape",
+        "value": "Rectangle"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Angry"
+      }
+    ],
+    "description": "An angry rectangle.",
+    "animation_url": "https://design-5k.github.io/crt-skulls-viewer/?bgId=5&tokenId=4",
+    "name": "Angry Rectangle"
+  },
+  "3": {
+    "attributes": [
+      {
+        "trait_type": "Shape",
+        "value": "Triangle"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Bored"
+      }
+    ],
+    "description": "An bored triangle.",
+    "animation_url": "https://design-5k.github.io/crt-skulls-viewer/?bgId=5&tokenId=3",
+    "name": "Bored Triangle"
+  }
+}
